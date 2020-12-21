@@ -51,15 +51,17 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am an Anime themed group management bot.
-Build by weebs for weebs, I specialize in managing anime and similar themed groups.
-You can find my list of available commands with /help.
+Hi {}, my name is *{}* ☺️ 
+
+*I am a manager bot built with python for Managing your groups.*
+*Add me to your group by tapping the button below and make me an admin to use me with my full potential.*
+*See /help for all available commands and help.*
+
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm Dr Stone & I help admins to manage their groups! Have a look at the following for an idea of some of \
+I will help admins to manage their groups! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
