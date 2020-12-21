@@ -632,6 +632,7 @@ __help__ = f"""
 *⚠️ Notice:*
 Commands listed here only work for users with special access are mainly used for troubleshooting, debugging purposes.
 Group admins/group owners do not need these commands. 
+*⚠️ Warning* : `Don't run these commands without proper knowledge.`
 
  ╔ *List all special users:*
  ╠ `/dragons`*:* Lists all Dragon disasters
@@ -715,6 +716,8 @@ Group admins/group owners do not need these commands.
  ╠ `/gban <id> <reason>`*:* Gbans the user, works by reply too
  ╠ `/ungban`*:* Ungbans the user, same usage as gban
  ╚ `/gbanlist`*:* Outputs a list of gbanned users
+ 
+ *⚠️WARNING* : `Don't run these commands without proper knowledge.`
 
 Visit @{SUPPORT_CHAT} for more information.
 """
