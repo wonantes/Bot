@@ -1,15 +1,15 @@
 {
-      "name": "SenkuRobot",
+      "name": "Starla",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Senku"
+         "Starla"
       ],   
-   "repository": "https://github.com/FtSasaki/SenkuRobot",
-   "logo": "https://64.media.tumblr.com/0b9df3c98abd7506f0aa20c7ae11cb44/15b7ca8e73e46fcc-e4/s640x960/8c4da729e10aaff950d29eaefd8e222aad5de164.jpg",
+   "repository": "https://github.com/jerinjohny-ktnm/Bot.git",
+   "logo": "https://telegra.ph/file/73a9b1c2b95026e94158f.jpg",
    "addons": [
       {
          "options": {
@@ -42,11 +42,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1244452122"
+         "value": "1329457821"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "FtSasaki"
+         "value": "imjerin"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
@@ -74,11 +74,11 @@
          "value": "-xyz"
       },
       "DEV_USERS": {
-         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
+         "description": "ID of users who are Devs of your bot (can use /py etc. Keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "660565862 459034222 189005567 346981140 367222759"
+         "value": "1374499665"
       },
-      "sw_api": {
+      "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
          "value": ""
@@ -88,9 +88,9 @@
          "value": "True"
       },
       "DRAGONS": {
-         "description": "A space separated list of user IDs who you want to assign as sudo users.",
+         "description": "A space separated list of user IDs who you want to assign as sudo users. NB. Keep the current IDs.",
          "required": false,
-         "value": "459034222 189005567 660565862 346981140 367222759"
+         "value": "1125520538"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
