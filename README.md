@@ -7,6 +7,10 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database and 
 
 Can be found on telegram as [Starla](https://t.me/miss_starlabot).
 
+### When deploying to heroku, you are advised to add any heroku ffmpeg buildpack like [this](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) for functioning of song plugin. 
+
+### Just Copy the link and paste it in the buildpack section
+
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
