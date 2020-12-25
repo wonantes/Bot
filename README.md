@@ -1,21 +1,24 @@
-## Welcome to Mikasa
+# Welcome to Starla
 
-[![Github](https://telegra.ph/file/2760adf198b8ee1450a6c.jpg)](https://github.com/jerinjohny-ktnm/Mikasa)
+[![Github](https://telegra.ph/file/73a9b1c2b95026e94158f.jpg)](https://github.com/jerinjohny-ktnm/Bot)
 
-Mikasa is a telegram bot which can be used to control or Manage your telegram groups.It's an bot made on anime theme.
-Can be found on Telegram as [Mikasa](http://telegram.dog/mikasaprobot)
+Starla is a telegram bot which can be used to control or Manage your telegram groups.It's an bot made on anime theme.
+Can be found on Telegram as [Starla](http://telegram.dog/miss_starlabot)
 
-### Deployment of Mikasa
+### Deployment of Starla
 
 You can deploy the bot by Heroku or by manual configuration, deployment using Heroku is always simple, While Manual configuration is a bit hard.
 
 You can deploy to Heroku by clicking this button below
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/Mikasa.git)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jerinjohny-ktnm/bot.git)
 
-### Last Words
+### Important Notice
 
-Please add your repo link to the start message or description of bot.
+When deploying to heroku, you have to add the below buildpack for proper functioning of Song Module
+
+### Link :
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ### Support or Contact
 
