@@ -54,7 +54,9 @@ PM_START_TEXT = """
 Hi {}, my name is *{}* ☺️ 
 
 *I am a manager bot built with python for Managing your groups.*
+
 *Add me to your group by tapping the button below and make me an admin to use me with my full potential.*
+
 *See /help for all available commands and help.*
 
 """
