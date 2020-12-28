@@ -11,6 +11,8 @@ Can be found on telegram as [Starla](https://t.me/miss_starlabot).
 
 ### Just Copy the link and paste it in the buildpack section
 
+### Add Heroku Redis Add-On to Heroku after deploying.
+
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
