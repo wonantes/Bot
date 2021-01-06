@@ -224,9 +224,9 @@ def info(update: Update, context: CallbackContext):
         return
 
     rep = message.reply_text(
-        "<code>Scrapping Data from Telegram Database...</code>", parse_mode=ParseMode.HTML)
+        "<code>Appraising...</code>", parse_mode=ParseMode.HTML)
 
-    text = (f"╒═══「<b> Fetched Data from Telegram:</b> 」\n"
+    text = (f"╒═══「<b> Appraisal results:</b> 」\n"
             f"ID: <code>{user.id}</code>\n"
             f"First Name: {html.escape(user.first_name)}")
 
