@@ -1,3 +1,7 @@
+### Generated from this [REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
+
+
+
 ![Starla](https://telegra.ph/file/73a9b1c2b95026e94158f.jpg)
 # Starla
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/jerinjohny-ktnm/bot?utm_source=github.com&utm_medium=referral&utm_content=jerinjohny-ktnm/bot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jerinjohny-ktnm/bot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/OnePunchUpdates)
