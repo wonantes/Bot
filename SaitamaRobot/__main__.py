@@ -210,8 +210,7 @@ def start(update: Update, context: CallbackContext):
                      ],
                      [
                         InlineKeyboardButton(
-                            text=" ✨ Help ",
-                            url="https://t.me/miss_starlabot?start=help"),
+                            text=" ✨ Help ", callback_data="help_back"),
                          InlineKeyboardButton(
                             text=" ⚡️ Creator ",
                              url="https://t.me/imjerin")        
