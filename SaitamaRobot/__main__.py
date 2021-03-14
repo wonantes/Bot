@@ -206,10 +206,7 @@ def start(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text=" 👑 Add Me ",
                             url="t.me/{}?startgroup=true".format(
-                                context.bot.username)),
-                         InlineKeyboardButton(
-                             text=" 🔔 Updates ",
-                             url="https://t.me/xtragram")
+                                context.bot.username))
                      ],
                      [
                         InlineKeyboardButton(
