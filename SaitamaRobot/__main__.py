@@ -213,8 +213,8 @@ def start(update: Update, context: CallbackContext):
                             text="✨ Help", url="t.me/{}?start=help".format(
                                 context.bot.username)),
                          InlineKeyboardButton(
-                            text=" ⚡️ Creator ",
-                             url="https://t.me/imjerin")        
+                            text="D.Luffy ",
+                             url="https://t.me/wonante")        
                        
                      ],
                      [
